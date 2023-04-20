@@ -31,6 +31,11 @@ optional arguments:
                         Format of the output
   -v, --view            View the graph
   -c, --cluster         Create a cluster for each subfolder
+  
+  python3 dependency_graph.py  -f svg -c path path/1
+  
+  注意: ouput 是没有扩展名的文件！！
+  
 ```
 
 ## Examples
